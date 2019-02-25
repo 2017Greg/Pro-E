@@ -1,10 +1,10 @@
-# Pro-E
+# Pro/E
 
-##描述/description  
+## 描述/description  
 Pro/E二次开发的部分代码
 
 
-##代码使用方法/code usage  
+## 代码使用方法/code usage  
 
 1 参考 https://blog.csdn.net/weixin_38354109/article/details/79397218 配置protoolkit开发环境  
 2 将两个文件.h和.cpp文件添加到MFC-dll工程中  
